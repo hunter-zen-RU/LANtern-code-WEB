@@ -1,0 +1,8 @@
+{
+  "name": "LANtern Code",
+  "description": "Collaborative IDE and code studio featuring Git management, LAN & WAN peer workspaces, real-time code editor, and local network discovery.",
+  "permissions": [],
+  "capabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
